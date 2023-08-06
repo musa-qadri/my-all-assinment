@@ -1,0 +1,52 @@
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.main-wrapper{
+    width: 60%;
+    margin: 100px auto;
+}
+.main-wrapper h1{
+    font-weight: 600;
+    font-size: 40px;
+    border-bottom: 10px solid #ddd;
+}
+
+.main-wrapper p{
+    font-weight: 400;
+    font: 22px;
+    border-left: 9px solid #ddd;
+    padding-left: 10px;
+
+}
+.portfolio td{
+    width: 250px;
+    text-align: center;
+}
+.card{
+    padding: 20px 0px;
+    box-shadow: rgba(8, 8, 230, 0.822) 0px 13px 27px -5px, rgba(230, 120, 120, 0.3) 0px 8px 16px -8px;
+    margin: 10px;
+    width: 200px;
+}
+.portfolio a{
+    color: rgb(150, 64, 64);
+    text-decoration: double;
+}
+.portfolio{
+    margin-top: 20px;
+}
+.portfolio >h4{
+    font-size: 28px;
+    text-align: center;
+}
+.github-link a{
+    color: #000;
+    text-decoration: none;
+}
+.github-link{
+    text-align: end;
+}
+.github-link a img{
+    width: 40px;
+}
